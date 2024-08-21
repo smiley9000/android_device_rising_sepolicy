@@ -1,0 +1,3 @@
+# Bootanim
+allow shell bootanim_data_file:dir create_dir_perms;
+allow shell bootanim_data_file:file create_file_perms;
